@@ -1,7 +1,4 @@
-
 <?php include("../../inc/header.php"); ?>
-
-
   <body class="hold-transition sidebar-mini">
     <div class="wrapper">
       <!-- Navbar -->
@@ -86,5 +83,4 @@
           </section>
           <!-- /.content -->
         </div>
-        
         <?php include("../../inc/footer.php"); ?>
